@@ -1,0 +1,9 @@
+{
+  "name": "Akten",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "int64-buffer": "^1.0.1"
+  }
+}
